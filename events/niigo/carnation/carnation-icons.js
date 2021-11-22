@@ -16,14 +16,14 @@
   },
   
    {
-	  "commonname": "Kanade's Father",
-	  "fullname": "Kanade's Father",
+	  "commonname": "Kanade''s Father",
+	  "fullname": "Kanade''s Father",
 	  "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/untitledsubsrc/events/niigo/kanadefather.png"
   },
   
      {
-	  "commonname": "Kanade's Mother",
-	  "fullname": "Kanade's Mother",
+	  "commonname": "Kanade''s Mother",
+	  "fullname": "Kanade''s Mother",
 	  "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/untitledsubsrc/events/niigo/kanademother.png"
   },
      
