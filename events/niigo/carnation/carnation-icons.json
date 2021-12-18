@@ -10,21 +10,21 @@
   },
   
   {
-	  "commonname": "Kanade (Child)",
+	  "commonname": "Young Kanade",
 	  "fullname": "Kanade Yoisaki (Child)",
-	  "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/untitledsubsrc/events/niigo/kanadechild.png"
+	  "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/untitledsubsrc/events/niigo/carnation/kanadechild.png"
   },
   
    {
-	  "commonname": "Kanade''s Father",
-	  "fullname": "Kanade''s Father",
-	  "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/untitledsubsrc/events/niigo/kanadefather.png"
+	  "commonname": "Kanade’s Fatherr",
+	  "fullname": "Kanade’s Father",
+	  "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/untitledsubsrc/events/niigo/carnation/kanadefather.png"
   },
   
      {
-	  "commonname": "Kanade''s Mother",
-	  "fullname": "Kanade''s Mother",
-	  "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/untitledsubsrc/events/niigo/kanademother.png"
+	  "commonname": "Kanade’s Mother",
+	  "fullname": "Kanade’s Mother",
+	  "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/untitledsubsrc/events/niigo/carnation/kanademother.png"
   },
      
 	{"commonname": "Mafuyu",
@@ -36,6 +36,26 @@
   {"commonname": "Mizuki",
   "fullname": "Mizuki Akiyama",
   "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/untitledsubsrc/unitdefaults/niigo/mizuki.png"
-  }
+  },
+
+  {"commonname": "Miku",
+    "fullname": "Miku",
+    "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/untitledsubsrc/unitdefaults/niigo/miku.png"
+    },
+
+  {"commonname": "Rin",
+      "fullname": "Rin",
+      "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/untitledsubsrc/unitdefaults/niigo/rin.png"
+      },
+
+  {"commonname": "Meiko",
+    "fullname": "Meiko",
+    "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/untitledsubsrc/unitdefaults/niigo/meiko.png"
+    },
+
+    {"commonname": "Luka",
+      "fullname": "Luka",
+      "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/untitledsubsrc/unitdefaults/niigo/luka.png"
+      }
   
   ]
